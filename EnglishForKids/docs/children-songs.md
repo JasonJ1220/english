@@ -1,6 +1,7 @@
 # children's song
 
 ## dickory dickory dare
+```
 the mouse  ran up the clock
 the clock struck one
 the mouse ran down
@@ -20,3 +21,4 @@ the clock struck three
 the monkey climbed down
 hickory dickory dock
 tick tock*4
+```
