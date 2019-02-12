@@ -6,7 +6,12 @@
 #### 主语
 - **功能**
 动作的发出者
-
+- **主语从句**
+主语从句的本质就是一个句子做主语。 
+如何判断主语从句：
+**“特殊疑问词”（如果是that 则不可省略，且不做任何成分。整个主语从句可用it代替放在句首，然后把从句扔到句子后边）在句首，例如:that，whether, how, where, when, why, what, which, whoever, whatever.**
+1.（That I was admitted by Yale） makes my parents excited.
+2.（That this is a practice contrary to the rules of criticism） will be readily allowed; but there is always an appeal open from criticism to nature.
 
 #### 谓语
 - **功能**
@@ -95,6 +100,8 @@ The behavioral sciences have been slow to change partly because the explanatory 
 - 目的状语
 **引导词**
 so, so that, in order that, in case, for fear that, lest 等
+**翻译**
+为了
 **例句**
 We all arrived at eight, so (that) the meeting began promptly.
 
@@ -107,6 +114,8 @@ We’ll come at eight so (that) the meeting can begin early.
 - 方式状语
 **引导词**
 as, just as, as if, as though, how 等
+**翻译**
+正如，就像
 **例句**
 1.We must live as if tomorrow is the end of the world.  
 2.Do as what I tell you.
@@ -116,6 +125,8 @@ as, just as, as if, as though, how 等
 - 条件状语
 **引导词**
 if, unless, so long as, as long as, in case, once, as far as, on condition that 等
+**翻译**
+在某种条件下
 **例句**
 1.George Annas, chair of the health law department at Boston university, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor had done nothing illegal even if the patient uses the drug to hasten death.
 2.If you are talking to a group of managers, you may refer to the disorganized methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
@@ -129,14 +140,15 @@ though, although, no matter what/how/when/where, even if, even though, however, 
 
 - 程度状语
 **引导词**
-where, wherever, anywhere, everywhere等
+to the degree/extent that, such that, in so far as 等
 **例句**
+And thanks to the continual miniaturization of electronics and micro-mechanics, there are already robot systems that can perform some kinds of brain and bone surgery with submillimeter accuracy– far greater precision than highly skilled physicians can achieve with their hands alone.
 
 - 比较状语
 **引导词**
-where, wherever, anywhere, everywhere等
+than, as/so…as, in proportion as(和..成比例）等。
 **例句**
-
+His courage is such that he does not know the meaning of fear.
 
 #### 补语
 - **功能**
@@ -149,7 +161,7 @@ where, wherever, anywhere, everywhere等
 
 #### 同位语
 - **功能**
-对一个名词或句子进行解释说明的另一个相同含义的名词
+对一个名词或句子进行解释说明的另一个相同含义的**名词**
 
 - **同位语类型**
 1. A,B,
