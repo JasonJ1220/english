@@ -25,6 +25,10 @@
 - **功能**
 动作指向的对象。
 
+- **宾语从句**
+主+谓(及物动词)+句子（做宾语）+其余修饰成分
+1.When I was five years old, my mother always told me that happiness is the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down “happy”. They told me I didn’t understand the assignment and I told them they didn’t understand life. ----John Lennon
+2.I'm sorry that I dragged you into my twisted, messed up world. I just thought you might be the one to pull me out of it. 
 
 #### 定语
 - **功能**
